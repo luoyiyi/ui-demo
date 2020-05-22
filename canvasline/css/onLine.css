@@ -364,3 +364,9 @@
 .menuBox > *[ondrop]:hover, .menuBox > *[ondrop].active {
 	background: #ccc;
 }
+.demo-content{
+	background-image: url("https://img-test.aixuexi.com/B:1030:K/1588003200/ecb50491980c46b38d179d3550ec4a46.png");
+	background-size: 100% 100%;
+	z-index: 0;
+	position: absolute;
+}
